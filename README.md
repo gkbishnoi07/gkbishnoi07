@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋!My name is Gopi Kishan and I'm a passionate full-stack developer from Bengaluru, India</h2>
+<h2 align="left">Hi 👋! My name is Gopi Kishan and I'm a passionate full-stack developer from Bengaluru, India</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gkbishnoi07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gkbishnoi07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -42,18 +42,16 @@
 
 ###
 
+🚀 **Projects**
+- [ForgeFit – Workout Planner 💪](https://github.com/gkbishnoi07/ForgeFit) – Track future workouts and stay consistent.
+- [Streaming App 🎬](https://github.com/gkbishnoi07/streaming-app) – React app with local storage, search & filter.
 
- 🚀 Projects
-- [Forgfit – Workout Planner 💪](https://github.com/gkbishnoi07/ForgeFit) – Track future workouts and stay consistent.
-- [Streaming-App 🎬](https://github.com/gkbishnoi07/streaming-app) – React app with local storage, search & filter.
-
-
-  
 ###
-
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/snake.svg" alt="GitHub Snake animation" />
+### 🐍 GitHub Contribution Snake
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/snake.svg" alt="GitHub Snake animation" />
+</div>
