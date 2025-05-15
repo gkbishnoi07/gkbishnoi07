@@ -15,10 +15,10 @@ jobs:
           github_user_name: gkbishnoi07
           outputs: |
             dist/snake.svg
-          # Custom colors
-          color_snake: "#39FF14"               # Neon green snake (you can change this)
-          color_dots: "#444444,#666666,#999999,#cccccc,#ffffff"  # Activity gradient
-          background_color: "#000000"          # Black background
+          # ✨ Add custom colors here
+          color_snake: "#FF00FF"  # Purple snake color
+          color_dots: "#222222,#333333,#444444,#555555,#00FF00"  # Contribution colors
+          background_color: "#000000"  # Black background
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
