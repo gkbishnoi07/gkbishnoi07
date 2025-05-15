@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋!My name is Gopi Kishan and I'm a passionate full-stack developer from Bengaluru, India</h2>
 
 ###
 
@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/snake.svg" alt="GitHub Snake animation" />
 
 ###
