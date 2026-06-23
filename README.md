@@ -1,42 +1,86 @@
-<h2 align="left">Hi 👋! My name is Gopi Kishan and I'm a passionate full-stack developer from Bengaluru, India</h2>
+<div align="center">
+
+# 👋 Hi, I'm Gopi Kishan
+
+### Open Source Developer • 2× Google Summer of Code Contributor • C4GT Contributor
+
+Building cloud-native systems, developer tooling, and large-scale open-source software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gkbishnoi07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gkishan1kyt@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/854303340531679292)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Gopi Kishan
+education: B.Tech Computer Science (AI/ML)
+location: Bengaluru, India 🇮🇳
+
+open_source:
+  - Google Summer of Code 2025 (Mifos)
+  - Google Summer of Code 2026 (GA4GH)
+  - Code for GovTech (C4GT) 2026 - Piramal Swasthya
+```
+
+---
+
+## 🌍 Open Source Impact
+
+| program                      | contribution                                                                                                                                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| gsoc 2026 · ga4gh            | building a production-grade serviceinfo sidecar for ga4gh services, focused on cloud-native deployment, kubernetes configuration management, reverse proxy architecture, and zero-code metadata standardization across drs, tes, wes, and trs services |
+| gsoc 2025 · mifos            | contributed to the mifos web app through bug fixes, angular lts upgrades, frontend modernization, and openapi-based integrations for production financial software                                                                                     |
+| c4gt 2026 · piramal swasthya | modernizing the amrit mmu platform by upgrading angular to the latest lts release, migrating angular material to zard ui, and replacing bootstrap with tailwind css                                                                                    |
+| mifos maintainer             | maintaining and supporting both mifos-web-app and mifos-web-app-react, reviewing issues, fixing bugs, and improving long-term maintainability                                                                                                          |
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=py)
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Backend & Cloud
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Github Actions](https://skillicons.dev/icons?i=githubactions)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gkbishnoi07&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkbishnoi07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gkbishnoi07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+### 💭 Philosophy
+
+> Most of my impactful work happens in open source.
+
 </div>
-
----
-
-<div align="left">
-  <a href="https://www.instagram.com/_gk.bishnoi07" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/854303340531679292" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:gkishan1kyt@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gkbishnoi07/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
-
----
-
-🚀 **Projects**
-- [ForgeFit – Workout Planner 💪](https://github.com/gkbishnoi07/ForgeFit) – Track future workouts and stay consistent.
-- [Streaming App 🎬](https://github.com/gkbishnoi07/streaming-app) – React app with local storage, search & filter.
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gkbishnoi07/gkbishnoi07/output/github-snake.svg" />
-</picture>
